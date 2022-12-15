@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=30&duration=4000&pause=1000&color=F8132C&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B+I+am+Hardik+Bhasin!)](https://git.io/typing-svg)
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://hardikbhasin.io)
-<h1 align="center">Hi 👋, I'm Hardik Bhasin</h1>
-<h3 align="center">A tech enthusiast from India</h3>
+
+<!-- <h1 align="center">Hi 👋, I'm Hardik Bhasin</h1> -->
+<h3 align="center">A tech enthusiast</h3>
 <img align="right" width ="400" alt = "coding" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikbhasin&label=Profile%20views&color=0e75b6&style=flat" alt="hardikbhasin" /> </p>
