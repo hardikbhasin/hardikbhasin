@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=30&duration=4000&pause=1000&color=F8132C&center=true&vCenter=true&width=1000&lines=Hello+%F0%9F%91%8B+I+am+Hardik+Bhasin!)](https://git.io/typing-svg)
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://hardikbhasin.io)
 <h1 align="center">Hi 👋, I'm Hardik Bhasin</h1>
 <h3 align="center">A tech enthusiast from India</h3>
@@ -27,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikbhasin&show_icons=true&locale=en" alt="hardikbhasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hardikbhasin&" alt="hardikbhasin" /></p>
+
