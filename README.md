@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikbhasin&label=Profile%20views&color=0e75b6&style=flat" alt="hardikbhasin" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Algorithm, Full stack web development**
+- 🌱 I’m currently learning **Data Structures, Algorithm, Web development**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JAVASCRIPT,BOOTSTRAP, JQUERY, GIT/GITHUB**
+- 💬 Ask me about **C,C++,Data Structures, Algorithms and various web technologies including JAVASCRIPT,BOOTSTRAP, REACT**
 
 - 📫 How to reach me **hardikbhasin398@gmail.com**
 
